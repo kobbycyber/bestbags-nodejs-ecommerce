@@ -17,7 +17,7 @@
     "connect-mongo": "^3.2.0",
     "cookie-parser": "^1.4.5",
     "csurf": "^1.11.0",
-    "debug": "~2.6.9",
+    "debug": "~3.1.0",
     "dotenv": "^8.2.0",
     "ejs": "~3.1.7",
     "ejs-lint": "^1.2.2",
